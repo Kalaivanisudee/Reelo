@@ -1,0 +1,25 @@
+[
+    { "customerId": "C1", "purchaseAmount": 50, "purchaseDate": ISODate("2024-09-01T10:00:00Z") },
+    { "customerId": "C1", "purchaseAmount": 30, "purchaseDate": ISODate("2024-09-02T11:00:00Z") },
+    { "customerId": "C1", "purchaseAmount": 20, "purchaseDate": ISODate("2024-09-03T12:00:00Z") },
+    { "customerId": "C1", "purchaseAmount": 70, "purchaseDate": ISODate("2024-09-04T13:00:00Z") },
+    { "customerId": "C1", "purchaseAmount": 60, "purchaseDate": ISODate("2024-09-05T14:00:00Z") },
+    { "customerId": "C1", "purchaseAmount": 80, "purchaseDate": ISODate("2024-09-06T15:00:00Z") },
+    { "customerId": "C2", "purchaseAmount": 40, "purchaseDate": ISODate("2024-09-01T16:00:00Z") },
+    { "customerId": "C2", "purchaseAmount": 25, "purchaseDate": ISODate("2024-09-02T17:00:00Z") },
+    { "customerId": "C2", "purchaseAmount": 35, "purchaseDate": ISODate("2024-09-03T18:00:00Z") },
+    { "customerId": "C2", "purchaseAmount": 60, "purchaseDate": ISODate("2024-09-04T19:00:00Z") },
+    { "customerId": "C2", "purchaseAmount": 20, "purchaseDate": ISODate("2024-09-05T20:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 55, "purchaseDate": ISODate("2024-09-01T21:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 45, "purchaseDate": ISODate("2024-09-02T22:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 75, "purchaseDate": ISODate("2024-09-03T23:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 60, "purchaseDate": ISODate("2024-09-04T00:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 80, "purchaseDate": ISODate("2024-09-05T01:00:00Z") },
+    { "customerId": "C3", "purchaseAmount": 90, "purchaseDate": ISODate("2024-09-06T02:00:00Z") },
+    { "customerId": "C4", "purchaseAmount": 100, "purchaseDate": ISODate("2024-09-01T03:00:00Z") },
+    { "customerId": "C4", "purchaseAmount": 30, "purchaseDate": ISODate("2024-09-02T04:00:00Z") },
+    { "customerId": "C4", "purchaseAmount": 20, "purchaseDate": ISODate("2024-09-03T05:00:00Z") },
+    { "customerId": "C4", "purchaseAmount": 25, "purchaseDate": ISODate("2024-09-04T06:00:00Z") },
+    { "customerId": "C4", "purchaseAmount": 10, "purchaseDate": ISODate("2024-09-05T07:00:00Z") }
+  ]
+  
